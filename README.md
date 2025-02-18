@@ -12,5 +12,5 @@
 
 ### 🔗Contact:  
   caiofinocchio@outlook.com  
-  https://www.linkedin.com/in/caio-bueno-finocchio-martins-336b0134a/  
+  https://www.linkedin.com/in/caiobfm/  
 
