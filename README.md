@@ -5,7 +5,7 @@
 
 ### 🛠️Skills:  
    - Front-end (-)
-   - Back-end (c++)
+   - Back-end (c++, python)
    - Teamwork, creativity, discipline  
 
 --- 
