@@ -3,9 +3,8 @@
   
 --- 
 
-### 🛠️Skills:  
-   - Front-end (-)
-   - Back-end (c++, python)
+### 🛠️Skills:
+   - c++, python  
    - Teamwork, creativity, discipline  
 
 --- 
